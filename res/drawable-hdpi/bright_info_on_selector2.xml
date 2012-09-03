@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<selector xmlns:Android="http://schemas.android.com/apk/res/android">  
+    <item Android:state_pressed="true"  
+          Android:drawable="@drawable/bright_info_over2" /> <!-- pressed -->  
+    <item Android:state_focused="true"  
+          Android:drawable="@drawable/bright_info_over2" /> <!-- focused -->  
+    <item Android:drawable="@drawable/bright_info_on2" /> <!-- default -->  
+</selector>  
